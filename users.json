@@ -1,0 +1,199 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "machines": [],
+    "seeAllMachines": true
+  },
+  {
+    "username": "Gianni",
+    "password": "Gianni",
+    "role": "user",
+    "machines": [],
+    "seeAllMachines": true
+  },
+  {
+    "username": "JeanCuisto",
+    "password": "Cuisto1",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2404110107",
+        "name": "Saint Jean"
+      },
+      {
+        "id": "2309190040",
+        "name": "Auhlnet"
+      },
+      {
+        "id": "2306250493",
+        "name": "Matha"
+      }
+    ]
+  },
+  {
+    "username": "LBW",
+    "password": "LBW220",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2306250493",
+        "name": "Stavelot"
+      },
+      {
+        "id": "2306250485",
+        "name": "Monbijou"
+      },
+      {
+        "id": "2306250454",
+        "name": "Bowling"
+      }
+    ]
+  },
+  {
+    "username": "Ruche",
+    "password": "Ruche01",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2309190041",
+        "name": "Ruche de Normandie"
+      }
+    ]
+  },
+  {
+    "username": "Mendy",
+    "password": "Mendy1",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2306270175",
+        "name": "Mendy"
+      }
+    ]
+  },
+  {
+    "username": "DistriPur",
+    "password": "Dist01",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2306150322",
+        "name": "Mounier"
+      },
+      {
+        "id": "2404190594",
+        "name": "Schuman"
+      },
+      {
+        "id": "2306150320",
+        "name": "Nautisport"
+      },
+      {
+        "id": "2306150328",
+        "name": "Montgomery"
+      }
+    ]
+  },
+  {
+    "username": "Bella",
+    "password": "Bella01",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2304240132",
+        "name": "BellaPizza"
+      }
+    ]
+  },
+  {
+    "username": "GDM",
+    "password": "2309190029",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2309190029",
+        "name": "GDM"
+      }
+    ]
+  },
+  {
+    "username": "Alsace",
+    "password": "1ms01",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2309190042",
+        "name": "Alsace"
+      }
+    ]
+  },
+  {
+    "username": "Culina",
+    "password": "Cul01",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2309190038",
+        "name": "Culina"
+      }
+    ]
+  },
+  {
+    "username": "Frithouse",
+    "password": "Frit01",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2309190044",
+        "name": "Dume"
+      }
+    ]
+  },
+  {
+    "username": "Vj's",
+    "password": "Vj's01",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2309190028",
+        "name": "Friterie"
+      }
+    ]
+  },
+  {
+    "username": "Thierry",
+    "password": "Thierry01",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2502060023",
+        "name": "Easy1"
+      },
+      {
+        "id": "2502060025",
+        "name": "Esay2"
+      },
+      {
+        "id": "2502060031",
+        "name": "Easy3"
+      },
+      {
+        "id": "2502060010",
+        "name": "Easy 4"
+      }
+    ]
+  },
+  {
+    "username": "BelgoFrite",
+    "password": "Belgo01",
+    "role": "user",
+    "machines": [
+      {
+        "id": "2306250375",
+        "name": "Vielsam"
+      }
+    ]
+  }
+]
